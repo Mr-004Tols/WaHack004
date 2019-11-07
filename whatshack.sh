@@ -12,7 +12,6 @@ echo
 python2 meizu.py
 echo
 clear
-echo
 <-- Gamer 4 LIve -->
 ####################
 #   Whatsapp Code  # By Mr.004
